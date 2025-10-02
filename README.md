@@ -1,9 +1,9 @@
-# Heading 1⏰ MikiClock Dashboard
+# ⏰ MikiClock Dashboard
 
 MikiClock is a comprehensive employee time management system designed to help organizations track employee working hours, manage attendance, and improve productivity.
 It provides employees with simple Clock In/Clock Out functionality while also offering admins tools for oversight and reporting.
 
-✨ Features
+# ✨ Features
 
 User Home Page
 
@@ -80,7 +80,7 @@ cd mikiclock-dashboard
 
 Open home.html in your browser.
 
-📂 Project Structure
+# 📂 Project Structure
 mikiclock-dashboard/
 ├── home.html          # Main landing page
 ├── dashboard.html     # User dashboard
@@ -91,7 +91,7 @@ mikiclock-dashboard/
 ├── form.html          # Login / Logout form
 └── assets/            # Icons, CSS, JS, images
 
-# Heading 1🔑 Key Pages
+# 🔑 Key Pages
 
 Home: Welcome banner, quick clock actions, quick stats, and announcements.
 
@@ -105,7 +105,7 @@ Forum: Internal communication and discussions.
 
 Settings: Profile customization.
 
-# Heading 1⚠️ Limitations
+# ⚠️ Limitations
 
 Local Storage Only – Records are stored in the browser’s LocalStorage:
 
@@ -133,9 +133,9 @@ No Notifications – Lacks email/SMS reminders; relies only on in-app alerts.
 
 Add screenshots of your dashboard UI here to showcase the interface.
 
-# Heading 1🤝 Contributing
+# 🤝 Contributing
 
-# Heading 2Contributions are welcome! Please fork the repo and submit a pull request.
+# Contributions are welcome! Please fork the repo and submit a pull request.
 
 
 
