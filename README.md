@@ -135,7 +135,7 @@ Add screenshots of your dashboard UI here to showcase the interface.
 
 # 🤝 Contributing
 
-# Contributions are welcome! Please fork the repo and submit a pull request.
+ Contributions are welcome! Please fork the repo and submit a pull request.
 
 
 
