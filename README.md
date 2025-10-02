@@ -137,11 +137,8 @@ Add screenshots of your dashboard UI here to showcase the interface.
 
 Contributions are welcome! Please fork the repo and submit a pull request.
 
-📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
 
-✨ That’s it! You now have a clean, production-ready README with features, setup instructions, limitations, and contribution guidelines.
 
-👉 Do you want me to also create a short tagline/description (1–2 sentences) you can put at the very top of your README (under the title) to make it look more professional?
+
+
